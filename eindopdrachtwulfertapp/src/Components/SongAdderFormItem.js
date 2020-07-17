@@ -1,10 +1,9 @@
 import React from 'react';
 
-function SongAdderFormItem() {
+function SongAdderFormItem(props) {
+    
     return (
-      <div>
-          SongAdderFormItem
-      </div>
+   <li>Dit component is nu niet in gebruik</li>
     );
   }
   

@@ -1,10 +1,12 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
-function SongViewerListItem() {
+  const SongViewerListItem = (props) => {
     return (
-      <div>
-      SongViewerListItem
-      </div>    
+      
+     <div>
+       {/* Dit component nu niet in gebruik */}
+     </div>
     );
   }
   

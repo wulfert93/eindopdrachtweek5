@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+    background: 
+    url(./img/change_of_seasons.jpg)
+    bottom right no-repeat
+    ,
+    url(./img/beethoven.jpg)
+    bottom left no-repeat
 }
 
 .App-logo {

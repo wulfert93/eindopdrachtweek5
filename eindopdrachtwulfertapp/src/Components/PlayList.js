@@ -1,8 +1,8 @@
 import React from 'react';
-import SongViewer from './Songviewer';
+import SongViewer from './SongViewer';
 import SongAdder from './SongAdder';
 
-function PlayList() {
+function PlayList(props) {
     return (
       <div>
         <SongViewer/>
